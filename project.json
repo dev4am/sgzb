@@ -1,3 +1,4 @@
+<<<<<<< .mine
 {
     "project_type": "javascript",
 
@@ -19,3 +20,26 @@
         "src/MyHexagon.js"
     ]
 }
+=======
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 2,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["menus"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/MapLayer.js",
+        "src/GameLayer.js",
+        "src/GameScene.js"
+    ]
+}
+
+>>>>>>> .theirs
